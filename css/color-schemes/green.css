@@ -1,0 +1,291 @@
+/*
+	Project:		--
+	Version:	    --
+	Create Date:	--
+	Last change:	--
+	Primary use:	--
+*/
+
+/*
+	## //- Header
+		- Navigation Menu
+		- Slider Section
+
+		## //- Layout
+		
+	## //- Home Sections
+		#--1--# Section - Introduction
+		#--2--# Section - Call to Action
+		#--3--# Section - About Us
+			- call us
+			- why choose
+		#--4--# Section - Skill
+		#--5--# Section - Service
+		#--6--# Section - Featured
+		#--7--# Section - Quotes
+		#--8--# Section - Team Member
+		#--9--# Section - Our Template
+		#--10--# Section - Our Facts
+		#--11--# Section - Time-line
+		#--12--# Section - Call to Action
+		#--13--# Section - Portfolio
+		#--14--# Section - Client
+		#--15--# Section - Work
+		#--16--# Section - Partners
+		#--17--# Section - Pricing
+		#--18--# Section - Contact
+		#--19--# Section - Footer
+		
+		
+
+	## //- Trainers Page
+
+	## //- Footer Versions
+		#--1--# Footer - Version 1
+		#--2--# Footer - Version 2
+		#--3--# Footer - Version 3
+
+	## //- Widgets Block
+*/
+
+
+
+/* ## //- Layout ########################################### */
+
+.slide-sub-title,
+.arrow,
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,
+
+.call-action-title,
+
+.fact-inner .fa,
+.phone-number-icon,
+.contact-information .social li a:hover ,
+.footer-title span ,
+.entry-title a:hover {
+    color: #7ec333;
+}
+
+/* Section Header */
+.section-title {
+    background-image: url("../../images/section/green-title-background.png");
+}
+
+/* .carousel */
+
+/* ## //- Header */
+
+/* Logo Block */
+
+
+/* Navigation Menu */
+
+
+
+/* Slider Section */
+/* Slider Section */
+.slides-pagination a.current,
+.carousel-indicators .active {
+    background-image: url("../../images/icon/green-slider-indicator-active.png");
+}
+
+/* ## #--1--# Section - Introduction ########################################### */
+.introduction-section .tab-system .nav-tabs > li.active .intro-icon.a,
+.introduction-section .tab-system .nav-tabs > li.active:hover .intro-icon.a,
+.introduction-section .tab-system .nav-tabs > li.active:focus .intro-icon.a,
+.introduction-section .tab-system .nav-tabs > li a:hover,
+.why-choose-us .intro-icon a:hover,
+.service-tab-system .nav-tabs > li.active > a .service-icon .service-tab-icon.a,
+.service-tab-system .nav-tabs > li.active > a:hover .service-icon .service-tab-icon.a,
+.service-tab-system .nav-tabs > li.active > a:focus .service-icon .service-tab-icon.a,
+.service-icon:hover  .service-tab-icon.a,
+.phone-number-icon:hover  .service-tab-icon.a,
+.featured-section .tab-system .nav-tabs li a:hover .featured-icon.a,
+.quote-image .intro-icon.a,
+.load-more:hover .intro-icon.a,
+.about-icon-hexagone,
+.back-to-top:hover .back-to-top-icon.a,
+.read-more-icon {
+    background-color: #7ec333;
+}
+
+.introduction-section .tab-system .nav-tabs > li.active .intro-icon.a:before,
+.introduction-section .tab-system .nav-tabs > li.active:hover .intro-icon.a:before,
+.introduction-section .tab-system .nav-tabs > li.active:focus .intro-icon.a:before,
+.intro-icon.a:hover:before,
+.service-tab-system .nav-tabs > li.active > a .service-icon .service-tab-icon.a:before ,
+.service-tab-system .nav-tabs > li.active > a:hover .service-icon .service-tab-icon.a:before ,
+.service-tab-system .nav-tabs > li.active > a:focus .service-icon .service-tab-icon.a:before ,
+.service-icon:hover  .service-tab-icon.a:before ,
+.phone-number-icon:hover  .service-tab-icon.a:before,
+.featured-icon.a:hover:before,
+.quote-image .intro-icon.a:before,
+.about-icon-hexagone.a:before,
+.back-to-top-icon.a:hover:before,
+.read-more-icon:before {
+    border-bottom-color: #7ec333;
+}
+
+.introduction-section .tab-system .nav-tabs > li.active .intro-icon.a:after,
+.introduction-section .tab-system .nav-tabs > li.active:hover .intro-icon.a:after,
+.introduction-section .tab-system .nav-tabs > li.active:focus .intro-icon.a:after,
+.intro-icon.a:hover:after,
+.service-tab-system .nav-tabs > li.active > a .service-icon .service-tab-icon.a:after,
+.service-tab-system .nav-tabs > li.active > a:hover .service-icon .service-tab-icon.a:after,
+.service-tab-system .nav-tabs > li.active > a:focus .service-icon .service-tab-icon.a:after,
+.service-icon:hover .service-tab-icon.a:after,
+.phone-number-icon:hover  .service-tab-icon.a:after,
+.featured-icon.a:hover:after,
+.quote-image .intro-icon.a:after,
+.about-icon-hexagone.a:after,
+.back-to-top-icon.a:hover:after,
+.read-more-icon:after {
+    border-top-color: #7ec333;
+}
+/* About Us */
+.about-icon-hexagone.a {
+    background-color: #7ec333;
+}
+
+.about-icon-hexagone.a:before {
+    border-bottom-color: #7ec333;
+}
+
+.about-icon-hexagone.a:after {
+    border-top-color: #7ec333;
+}
+
+.about-box-title {
+    background-image: url("../../images/section/green-about-box-title-bg.png");
+}
+
+.carousel-control {
+    border: 1px solid #7ec333;
+    color: #7ec333;
+}
+/* call us */
+.call-us,
+.team-member-detail,
+.portfolio-image-section:hover > .portfolio-heading-section,
+.carousel-control:hover, .carousel-control:focus {
+    background-color: #7ec333;
+}
+
+.timeline > li:hover > .timeline-panel,
+.price-inner-section:hover > .links-button {
+    background-color: #7ec333;
+}
+
+.timeline > li:hover > .timeline-badge {
+    background-image: url("../../images/icon/green-time-line-polygon-hover.png");
+}
+
+.timeline > li:hover > .timeline-panel:before {
+    border-top: 15px solid transparent;
+    border-left: 15px solid #7EC333;
+    border-right: 0 solid #7EC333;
+    border-bottom: 15px solid transparent;
+}
+
+.timeline > li:hover > .timeline-panel:after {
+    border-top: 14px solid transparent;
+    border-left: 14px solid #7EC333;
+    border-right: 0 solid #7EC333;
+    border-bottom: 14px solid transparent;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel:before {
+    border-left-width: 0;
+    border-right-width: 15px;
+    left: -15px;
+    right: auto;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel:after {
+    border-left-width: 0;
+    border-right-width: 14px;
+    left: -14px;
+    right: auto;
+}
+
+.portfolio-section-hover ul li a {
+    background-image: url("../../images/portfolio/green-portfolio-polygon.png");
+    color: #7ec333;
+}
+
+.portfolio-section-hover ul li:hover {
+    background-image: url("../../images/portfolio/green-portfolio-hover-polygon.png");
+}
+
+.portfolio-section .portfolio-categories > li > a:hover,
+.portfolio-section .portfolio-categories > li > a.active {
+    background-image: url("../../images/section/green-portfolio-menu-hover-bg.png");
+}
+
+.testimonial-client-name,
+.price-title {
+    background-image: url("../../images/section/green-about-box-title-bg.png");
+}
+
+.portfolio-section .portfolio-categories > li > a:hover {
+    background-image: url("../../images/section/green-portfolio-menu-hover-bg.png");
+}
+
+.owl-prev:hover,
+.owl-next:hover {
+    background-color: #7ec333;
+    border-color: #7ec333;
+}
+
+.map .full-map {
+    background-color: rgba(151, 208, 77, 0.7);
+}
+
+.get-started:hover {
+    color: #fff;
+    background-color: #7ec333;
+    text-decoration: none;
+    border: none;
+}
+
+.call-us .get-started:hover {
+    background-color: #000;
+}
+/* Blog */
+.slides-navigation a,
+.page-header,
+.widget_categories > ul a:hover,
+.widget_social_icons li:hover,
+.comment-form .btn:hover,
+.our-template-section .purchase-now:hover,
+.work-section .links-button:hover,
+.contact-form input:hover[type="submit"] {
+    background-color: #7ec333;
+}
+
+.header-blog .navbar-default .navbar-nav > .active > a,
+.header-blog .navbar-default .navbar-nav > .active > a:hover,
+.header-blog .navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav li > a:hover,
+.navbar-default .navbar-nav li > a:focus,
+.post-formate-icon,
+.entry-meta a:after ,
+.widget_recent_entries > ul a,
+.tags .fa,
+.entry-meta a:hover,
+.tags a:hover {
+    color: #7ec333;
+}
+
+.read-more .fa {
+    background-image: url("../../images/blog/green-blog-read-more.png");
+}
+
+.type-post {
+    background-image: url("../../images/blog/green-blog-list-bg.png");
+}
+
+.reply:hover {
+    background-color: #7ec333;
+}
